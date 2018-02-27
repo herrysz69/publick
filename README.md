@@ -1,2 +1,0 @@
-# publick
-bot publick
